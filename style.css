@@ -7,11 +7,6 @@
     outline: 0;
     transition: all 0.5s ease;
 }
-a {
-    text-decoration: none;
-    color: #fff;
-}
-
 body {
     background-image: linear-gradient( to bottom right, rgba(79,51,176,1.0),rgba(210,53,165));
 }
@@ -98,8 +93,6 @@ button#equal {
     height: 130px;
 }
 
-/* light theme */
-
 .calculator {
     background-color: #fff;
 }
@@ -127,8 +120,6 @@ button#equal {
     background-color: #adf9e7;
     color: #000;
   }
-
-  /* dark theme */
 
   .calculator.dark {
     background-color: #071115;
